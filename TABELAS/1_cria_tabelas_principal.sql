@@ -1,4 +1,3 @@
--- Active: 1679829265554@@127.0.0.1@3306@restaurante_bd
 /*Projeto: Bancos de Dados de um restaurante Simples.
 Desenvolvido: Victor Hugo Marques
 Tempo Estimado:  minutos. 
