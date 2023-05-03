@@ -55,6 +55,3 @@ A funcionalidade do sistema desenvolvido foi testar informalmente em sua utiliza
 Para validação dos dados populados na tabela foram desenvolvidas algumas views. Eu não desenvolvi todas as views que achava interessante para o modelo de negócio, porém trouxe algumas que trazem informações primordiais, como localização dos clientes e diferentes fontes de receita. 
 
 Apesar de saber da importância da elaboração das triggers que relacionam os eventos neste tipo de bancos de dados, estas não foram desenvolvidas, pois este projeto até o momento é voltado para estruturação das tabelas. Futuramente é interessante relacionar a saída de pedidos de forma automática do estoque, entrada em estoque de ordens de compra válidas, relacionar pedidos a comunicação com o cliente via seus contatos cadastrados etc. 
-## Conclusão
-
-asd
